@@ -6,5 +6,7 @@ public class AtmProject {
         // versiyon2
         System.out.println("Learn java earn money");
         //versiyon3
+        System.out.println("Git öğrenmek cok kolay");
+        //versiyon4
     }
 }
