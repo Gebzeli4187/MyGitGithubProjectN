@@ -12,5 +12,6 @@ public class AtmProject {
         //versiyon adm1
         System.out.println("bir kısım kodlar");
         //adm2
+        // localde degisikilik yaptim.
     }
 }
